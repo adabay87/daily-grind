@@ -1,7 +1,7 @@
 //alert("hola!");
 
 /*
-Rotate by Day of Week: Use HTML/CSS & JavaScript to create a single page 
+This page Rotate by Day of Week: Use HTML/CSS & JavaScript to create a single page 
 that rotates unique colors and content for each weekday (Sunday to Saturday) 
 into the page.  The content must include:
 
@@ -82,7 +82,7 @@ switch(today){
     case 3:
         today="Wensday";
         coffee = {
-           color:"Yellow",
+           color:"#001f24",
            name:"Cold Brew",
            pic:"cold-brew.jpg",
            alt:"a picture of a cold brew",
